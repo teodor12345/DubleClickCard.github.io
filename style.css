@@ -30,6 +30,7 @@ small{
     height: 440px;
     width: 300px;
     background-image: url('https://images.pexels.com/photos/3225529/pexels-photo-3225529.jpeg?auto=compress&cs=tinysrgb&w=1600');
+    background-size: cover;
     cursor: pointer;
     margin: auto;
     max-width: 100%;
